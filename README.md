@@ -22,16 +22,23 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<div>
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+  <p>
+    
+  - 🌱 I’m currently learning **multiplayer game development**
+  
+  - 💬 Ask me about **Game Development, Gameplay programming, Multiplayer, Game Design Ideas**
+  
+  - 📫 How to reach me **ashbyissac8@gmail.com**
+  
+  - 📄 Know about my experiences
+    <a href="https://docs.google.com/document/d/1tBp4KG9S_tHr8QgeW3JsrRPg330s-YLFk43gVkBDNwY/edit?usp=sharing">Resume</a>
+  
+  </p>
+</div>
 
-- 🌱 I’m currently learning **multiplayer game development**
 
-- 💬 Ask me about **Game Development, Gameplay programming, Multiplayer, Game Design Ideas**
-
-- 📫 How to reach me **ashbyissac8@gmail.com**
-
-- 📄 Know about my experiences
-<a href="https://docs.google.com/document/d/1tBp4KG9S_tHr8QgeW3JsrRPg330s-YLFk43gVkBDNwY/edit?usp=sharing">Resume</a>
 
 <h4 align="left">Connect with me</h4>
 <p align="left">
