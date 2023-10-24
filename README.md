@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **ashbyissac8@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tBp4KG9S_tHr8QgeW3JsrRPg330s-YLFk43gVkBDNwY/edit?usp=sharing](https://docs.google.com/document/d/1tBp4KG9S_tHr8QgeW3JsrRPg330s-YLFk43gVkBDNwY/edit?usp=sharing)
+- 📄 Know about my experiences
+<a href="https://docs.google.com/document/d/1tBp4KG9S_tHr8QgeW3JsrRPg330s-YLFk43gVkBDNwY/edit?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
