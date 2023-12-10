@@ -47,6 +47,4 @@
 
 ### Numbers
 
-![ashby issac's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashbyissac&theme=darcula&hide_border=true)
-
 ![ashby issac's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ashbyissac&theme=darcula&show_icons=true&hide_border=true&locale=en&layout=compact)
