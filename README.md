@@ -33,9 +33,6 @@
   
   - 📫 How to reach me **ashbyissac8@gmail.com**
   
-  - 📄 Know about my experiences
-    <a href="https://docs.google.com/document/d/1tBp4KG9S_tHr8QgeW3JsrRPg330s-YLFk43gVkBDNwY/edit?usp=sharing">Resume</a>
-  
   </p>
 </div>
 
